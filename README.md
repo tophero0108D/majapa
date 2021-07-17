@@ -3,8 +3,7 @@
 
 
 [![OS - Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![OS - Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![OS - MAcOS](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=)](https://www.apple.com/macos/server/)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/mrijoo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mrijoo)
 [![GitHub stars](https://img.shields.io/github/stars/mrijoo/RDP.svg?style=social&label=Star)](https://github.com/mrijoo/RDP)
